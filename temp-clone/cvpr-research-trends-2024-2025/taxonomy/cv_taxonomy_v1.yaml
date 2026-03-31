@@ -1,0 +1,110 @@
+version: "1.0"
+description: "CV conference trend taxonomy (title keyword based)"
+
+themes:
+  multimodal_vlm:
+    keywords:
+      - vision-language
+      - vision language
+      - multimodal
+      - vlm
+      - clip
+      - visual instruction
+      - grounding
+      - referring
+
+  agents_reasoning:
+    keywords:
+      - agent
+      - reasoning
+      - planner
+      - planning
+      - tool use
+      - gui
+      - action
+
+  generative_diffusion:
+    keywords:
+      - diffusion
+      - generation
+      - generative
+      - editing
+      - inpainting
+      - text-to-image
+      - text to image
+      - video generation
+
+  video_temporal:
+    keywords:
+      - video
+      - temporal
+      - tracking
+      - motion
+      - long-term
+      - action recognition
+
+  vision_3d_geometry:
+    keywords:
+      - 3d
+      - neural rendering
+      - nerf
+      - gaussian splatting
+      - stereo
+      - depth
+      - slam
+      - geometry
+      - reconstruction
+
+  detection_segmentation:
+    keywords:
+      - detection
+      - detector
+      - segmentation
+      - panoptic
+      - instance segmentation
+      - open-vocabulary
+      - open vocabulary
+      - zero-shot detection
+
+  efficient_edge:
+    keywords:
+      - efficient
+      - mobile
+      - edge
+      - on-device
+      - quantization
+      - pruning
+      - distillation
+      - tiny
+
+  robust_perception:
+    keywords:
+      - robust
+      - adverse weather
+      - fog
+      - rain
+      - snow
+      - low-light
+      - low light
+      - denoising
+      - deblurring
+      - corruption
+
+  explainability_safety:
+    keywords:
+      - explain
+      - interpret
+      - saliency
+      - safety
+      - trustworthy
+      - fairness
+      - bias
+
+  embodied_robotics:
+    keywords:
+      - embodied
+      - robot
+      - robotics
+      - manipulation
+      - navigation
+      - world model
